@@ -8,7 +8,7 @@
     total = n1+n2;
     totalsub = n1-n2
     totalmulti = n1*n2
-    if(n2>0) {totaldiv = n1/n2}
+    if(n2>0) {totaldiv = n1/n2} else {totaldiv = "Não foi possível realizar a operação"}
     
     
     alert('Resultado da adição: '+total +'\nresultado da subtração: '+totalsub+'\nResultado da multiplicação: '+totalmulti+'\nResultado da divisão: '+totaldiv);
