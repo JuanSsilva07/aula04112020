@@ -8,7 +8,8 @@
     total = n1+n2;
     totalsub = n1-n2
     totalmulti = n1*n2
-    totaldiv = n1/n2
+    if(n2>0) {totaldiv = n1/n2}
+    
     
     alert('Resultado da adição: '+total +'\nresultado da subtração: '+totalsub+'\nResultado da multiplicação: '+totalmulti+'\nResultado da divisão: '+totaldiv);
 
