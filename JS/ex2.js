@@ -16,4 +16,5 @@
     /* Acrescentar os cálculos de subtração (n1 - n2), multiplicação(n1*n2) e divisão (n1/n2).
     Mas tome cuidado para não deixar o usuário dividir por zero, pois é impossível.
     Mostrar os resultados no mesmo ALERT, somente quebrando a linha. */
+    /* Quebra de linha no JS é \n */
 })
